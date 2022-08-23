@@ -56,7 +56,7 @@ public class NetheritePots {
         player.getInventory().setItem(6, InstantHealth);
         player.getInventory().setItem(7, strength2);
         player.getInventory().setItem(8, speed2);
-
+        // Primera linea
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
@@ -66,6 +66,7 @@ public class NetheritePots {
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(strength2);
         player.getInventory().addItem(speed2);
+        // Segunda linea
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
@@ -75,6 +76,7 @@ public class NetheritePots {
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(strength2);
         player.getInventory().addItem(speed2);
+        // Tercera linea
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);

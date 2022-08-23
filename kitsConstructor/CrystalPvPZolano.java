@@ -57,6 +57,7 @@ public class CrystalPvPZolano {
         player.getInventory().setItem(7, shovel);
         player.getInventory().setItem(8, perlas);
         player.getInventory().setItemInOffHand(totem);
+        //Primera linea
         player.getInventory().addItem(xp);
         player.getInventory().addItem(totem);
         player.getInventory().addItem(totem);
@@ -66,6 +67,7 @@ public class CrystalPvPZolano {
         player.getInventory().addItem(totem);
         player.getInventory().addItem(perlas);
         player.getInventory().addItem(perlas);
+        // Segunda linea
         player.getInventory().addItem(xp);
         player.getInventory().addItem(totem);
         player.getInventory().addItem(totem);
@@ -75,6 +77,7 @@ public class CrystalPvPZolano {
         player.getInventory().addItem(totem);
         player.getInventory().addItem(perlas);
         player.getInventory().addItem(perlas);
+        // Tercera linea
         player.getInventory().addItem(xp);
         player.getInventory().addItem(Obsidian);
         player.getInventory().addItem(Crystal);

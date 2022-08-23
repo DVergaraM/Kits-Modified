@@ -61,6 +61,7 @@ public class DiamondPots {
         player.getInventory().setItem(6, InstantHealth);
         player.getInventory().setItem(7, InstantHealth);
         player.getInventory().setItem(8, InstantHealth);
+        //Primera linea
         player.getInventory().addItem(speed2);
         player.getInventory().addItem(regen);
         player.getInventory().addItem(strength2);
@@ -70,6 +71,7 @@ public class DiamondPots {
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
+        // Segunda linea
         player.getInventory().addItem(speed2);
         player.getInventory().addItem(regen);
         player.getInventory().addItem(strength2);
@@ -79,6 +81,7 @@ public class DiamondPots {
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
         player.getInventory().addItem(InstantHealth);
+        // Tercera linea
         player.getInventory().addItem(speed2);
         player.getInventory().addItem(regen);
         player.getInventory().addItem(strength2);
